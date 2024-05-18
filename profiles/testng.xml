@@ -2,8 +2,8 @@
 
 <suite name="API" verbose="1" >
     <test name="Test Reqres"   >
-        <packages>
-            <package name="tests.TestReqres" />
-        </packages>
+        <classes>
+            <class name="tests.TestReqres" />
+        </classes>
     </test>
 </suite>
