@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="API" verbose="1" >
+    <test name="Test Reqres"   >
+        <packages>
+            <package name="tests.TestReqres" />
+        </packages>
+    </test>
+</suite>
